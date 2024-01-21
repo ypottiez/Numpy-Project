@@ -12,6 +12,7 @@
   * [scripts](#scripts)
   * [Additional files](#additional-files)
     * [.gitattributes](#gitattributes)
+    * [.gitkeep](#gitkeep)
     * [.gitignore](#gitignore)
     * [environment.yml](#environmentyml)
     * [README.md](#readmemd)
