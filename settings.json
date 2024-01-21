@@ -1,0 +1,14 @@
+{
+    "data-paths": {
+        "directories": {
+            "input": "data/input",
+            "intermediate": "data/intermediate",
+            "output": "data/output"
+        },
+        "files": {
+            "input": "data/input/input.csv",
+            "intermediate": "data/intermediate/intermediate.csv",
+            "output": "data/output/output.csv"
+        }
+    }
+}
