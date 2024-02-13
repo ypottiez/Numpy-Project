@@ -24,7 +24,7 @@
 > "Torture the data, and it will confess to anything" – Ronald Coase
 
 # Introduction
-This repo was made for the Data Science course from AB Syntra.
+This repo was made for the Data Science course from AB Syntra, Numpy project: https://github.com/ypottiez/Numpy-Project
 Data and code can be freely used an redistributed with or without changes, no license applied.
 
 # Copy this structure - TODO - remove after initial setup
@@ -111,7 +111,7 @@ Markdown file with information about the project, contains the information you a
 
 
  # Project information - TODO
- Information about the project will follow
+ The purpose of this project is to find a random image and create a series of demanded and chosen manipulations as described in asignment.pdf (see documentation folder)
 
  # Resources - TODO
  Add resources used in the project
