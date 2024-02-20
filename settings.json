@@ -1,7 +1,0 @@
-{
-  "data": {
-    "input-directory": "data/input",
-    "intermediate-directory": "data/intermediate",
-    "output-directory": "data/output"
-  }
-}
